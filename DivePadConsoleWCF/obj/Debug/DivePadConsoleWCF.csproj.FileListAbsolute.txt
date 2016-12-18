@@ -1,0 +1,12 @@
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\obj\Debug\DivePadConsoleWCF.csprojResolveAssemblyReference.cache
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\DivePadConsoleWCF.exe.config
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\DivePadConsoleWCF.exe
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\DivePadConsoleWCF.pdb
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\Dive.Pad.WCF.Proj.dll
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\Sicred.Data.BaseModel.dll
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\EntityFramework.dll
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\Dive.Pad.WCF.Proj.pdb
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\Sicred.Data.BaseModel.pdb
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\bin\Debug\EntityFramework.xml
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\obj\Debug\DivePadConsoleWCF.exe
+E:\Leandro\Web\DivePad\SiteWebForms\Dive.Pad.Web.Forms\DivePadConsoleWCF\obj\Debug\DivePadConsoleWCF.pdb
